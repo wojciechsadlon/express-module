@@ -1,0 +1,15 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+body {
+  margin: 0;
+}
+
+.dark-wrapper {
+  padding: 16px;
+  height: 100vh;
+  background-color: black;
+  color: white;
+}
